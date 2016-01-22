@@ -1,12 +1,12 @@
 name: Page Inject
-version: 1.0.0
+version: 2.0.0
 description: "Page Inject plugin allows you to inject the page into other pages."
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-page-inject
-bugs: https://github.com/morfy-cms/morfy-plugin-page-inject/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-page-inject
+bugs: https://github.com/fansoro/fansoro-plugin-page-inject/issues
 license: MIT
 
 # Plugin settings

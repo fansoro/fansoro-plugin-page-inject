@@ -2,7 +2,7 @@
 Page Inject plugin allows you to inject the page into other pages.
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage
 
@@ -19,4 +19,4 @@ Also you can set a specific page `field` to return
 ```
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-page-inject/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-page-inject/blob/master/LICENSE)

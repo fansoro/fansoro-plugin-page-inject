@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Page Inject Plugin
+ * Fansoro Page Inject Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
